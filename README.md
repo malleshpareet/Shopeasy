@@ -35,20 +35,35 @@ Shopeasy is a Flutter-based mobile application designed for showcasing e-commerc
 
 lib/
 ├── Const/
+
 │ └── my_validators.dart
+
 ├── Screens/
+
 │ ├── auth/
+
 │ │ ├── login.dart
+
 │ │ ├── register.dart
+
 │ │ └── forgot_password.dart
+
 │ └── loading_manager.dart
+
 ├── Widgets/
+
 │ ├── app_name_text.dart
+
 │ ├── auth/google_button.dart
+
 │ └── auth/image_picker_widget.dart
+
 ├── services/
+
 │ └── my_app_methods.dart
+
 ├── root_screen.dart
+
 └── main.dart
 
 
